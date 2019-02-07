@@ -1,0 +1,33 @@
+* {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    box-sizing: border-box;
+    letter-spacing: 2px;
+    background-color: tan;
+}
+
+form {
+    min-height: 200px;
+}
+
+input {
+    margin: 50px 10px;
+}
+
+input:hover {
+    background-color: rgb(209, 185, 185);
+    transition: .2s
+}
+
+input {
+    height: 25px;
+    border: 1.2px solid darkorange;
+}
+
+.result {
+    padding-bottom: 30px;
+}
+
+.result div {
+    padding: 10px;
+}
