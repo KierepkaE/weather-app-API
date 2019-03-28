@@ -1,13 +1,13 @@
 {
-  "main.css": "/KierepkaE/weatherappAPI.git/static/css/main.e135cd19.chunk.css",
-  "main.js": "/KierepkaE/weatherappAPI.git/static/js/main.518cb7cd.chunk.js",
-  "main.js.map": "/KierepkaE/weatherappAPI.git/static/js/main.518cb7cd.chunk.js.map",
-  "runtime~main.js": "/KierepkaE/weatherappAPI.git/static/js/runtime~main.ef74ad60.js",
-  "runtime~main.js.map": "/KierepkaE/weatherappAPI.git/static/js/runtime~main.ef74ad60.js.map",
-  "static/js/2.c37d9d9a.chunk.js": "/KierepkaE/weatherappAPI.git/static/js/2.c37d9d9a.chunk.js",
-  "static/js/2.c37d9d9a.chunk.js.map": "/KierepkaE/weatherappAPI.git/static/js/2.c37d9d9a.chunk.js.map",
-  "index.html": "/KierepkaE/weatherappAPI.git/index.html",
-  "precache-manifest.e2f2bf02a6dbbcc7e62c4d7bb840c786.js": "/KierepkaE/weatherappAPI.git/precache-manifest.e2f2bf02a6dbbcc7e62c4d7bb840c786.js",
-  "service-worker.js": "/KierepkaE/weatherappAPI.git/service-worker.js",
-  "static/css/main.e135cd19.chunk.css.map": "/KierepkaE/weatherappAPI.git/static/css/main.e135cd19.chunk.css.map"
+  "main.css": "/weatherappAPI/static/css/main.e135cd19.chunk.css",
+  "main.js": "/weatherappAPI/static/js/main.6dab3175.chunk.js",
+  "main.js.map": "/weatherappAPI/static/js/main.6dab3175.chunk.js.map",
+  "runtime~main.js": "/weatherappAPI/static/js/runtime~main.d40e7977.js",
+  "runtime~main.js.map": "/weatherappAPI/static/js/runtime~main.d40e7977.js.map",
+  "static/js/2.c37d9d9a.chunk.js": "/weatherappAPI/static/js/2.c37d9d9a.chunk.js",
+  "static/js/2.c37d9d9a.chunk.js.map": "/weatherappAPI/static/js/2.c37d9d9a.chunk.js.map",
+  "index.html": "/weatherappAPI/index.html",
+  "precache-manifest.ca9fce4afa8bdc5570f6392bca5e996e.js": "/weatherappAPI/precache-manifest.ca9fce4afa8bdc5570f6392bca5e996e.js",
+  "service-worker.js": "/weatherappAPI/service-worker.js",
+  "static/css/main.e135cd19.chunk.css.map": "/weatherappAPI/static/css/main.e135cd19.chunk.css.map"
 }

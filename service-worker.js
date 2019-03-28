@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/KierepkaE/weatherappAPI.git/precache-manifest.e2f2bf02a6dbbcc7e62c4d7bb840c786.js"
+  "/weatherappAPI/precache-manifest.ca9fce4afa8bdc5570f6392bca5e996e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/KierepkaE/weatherappAPI.git/index.html", {
+workbox.routing.registerNavigationRoute("/weatherappAPI/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
